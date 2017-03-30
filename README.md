@@ -405,6 +405,8 @@ The links below refer to an older version of gm but everything should still work
     - [label](http://aheckmann.github.com/gm/docs.html#label)
     - [lat](http://aheckmann.github.com/gm/docs.html#lat)
     - [level](http://aheckmann.github.com/gm/docs.html#level)
+    - [levelColors](http://aheckmann.github.com/gm/docs.html#levelColors)
+    - [levelColorsMinus](http://aheckmann.github.com/gm/docs.html#levelColorsMinus)
     - [list](http://aheckmann.github.com/gm/docs.html#list)
     - [limit](http://aheckmann.github.com/gm/docs.html#limit)
     - [log](http://aheckmann.github.com/gm/docs.html#log)
